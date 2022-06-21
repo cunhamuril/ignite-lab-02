@@ -1,0 +1,4 @@
+- GraphQL
+- GraphCMS
+- Apollo
+- TailwindCSS
